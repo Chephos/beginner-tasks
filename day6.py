@@ -13,4 +13,4 @@ def no_of_days(height):
             total -= down
     return print(f"It takes {days} days to climb out of the well.")
 
-no_of_days(17)
+no_of_days(5)

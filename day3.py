@@ -23,4 +23,4 @@ def palindromic_numbers(numbers):
         return print(palindromes),print(f"\nThe total number of Palindrome is: {count}")
         
 
-palindromic_numbers(500)
+palindromic_numbers(1000)
