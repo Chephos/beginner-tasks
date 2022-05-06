@@ -29,6 +29,8 @@ def solve(bo):
             bo[row][col] = 0
 
     return False
+
+    
 def valid(bo:list,num:int,pos:tuple):
 
     # Check row
